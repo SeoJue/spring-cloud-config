@@ -1,6 +1,6 @@
 jwt:
   expiration_time: 1
-  secret: ecommerce_token_default
+  secret: ecommerce_token_prod
 
 gateway:
   ip: localhost
