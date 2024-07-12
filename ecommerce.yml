@@ -1,6 +1,6 @@
 jwt:
   expiration_time: 1
-  secret: user_token
+  secret: config_token
 
 gateway:
   ip: localhost
