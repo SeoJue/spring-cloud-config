@@ -3,6 +3,7 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
     username: "{cipher}607aa8ab39fcfa35ce73b13be823b9e08f5c3758c24667309cd68f79f4dc4541"
+    password: "{cipher}c44ba02e2e3980812b99e55353e12384ffc77d71e755f4707cad8c6155397865"
 
 jwt:
   expiration_time: 1
